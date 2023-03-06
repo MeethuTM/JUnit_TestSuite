@@ -1,0 +1,1 @@
+[{"name":"Meethu Muralidharan""event_version": "1.1.1","event_id": "97df7895-8c5f-42f6-8bb5-8599bd54af62","event_name": "gamemx_game_outcome_event","producer": "gamemicroservice","created_date": "current datetime in ISO format sample:2022-04-19T13:44:45.746Z", }]
